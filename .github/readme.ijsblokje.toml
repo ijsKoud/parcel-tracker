@@ -1,0 +1,8 @@
+[project]
+icon = "https://ijskoud.dev/assets/svg/logo.svg"
+icon_width = "100%"
+version = "1.0.0"
+
+[variables]
+information = "API to track parcels from all over the world 📦"
+installation = ["N/A"]

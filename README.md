@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://ijskoud.dev/assets/svg/logo.svg" width="100px" />
-    <h1>project-template</h1>
+    <img src="https://ijskoud.dev/assets/svg/logo.svg" width="100%" />
+    <h1>parcel-tracker</h1>
   
-  <p>A quick and easy to use template for TypeScript like projects ✏️</p>
+  <p>API to track parcels from all over the world 📦</p>
   
   <p align="center">
     <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg" />
@@ -20,13 +20,11 @@
 
 ## Information
 
-Just a template, like an uncolored drawing. That's all. ✏️
+API to track parcels from all over the world 📦
 
 ## Install
 
-To use this template, you will need the following: `yarn` and `node >= 18.12.1`.
-
-
+N/A
 
 ## Author
 
